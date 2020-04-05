@@ -4,7 +4,7 @@
 ## 安装使用
 
 - clone 项目到本地
-> git clone https://github.com/solei1/docker-for-XSS-plaform
+> git clone https://github.com/Threekb/docker-for-XSS-plaform
 
 - 修改配置文件
 
